@@ -2,7 +2,6 @@
 
 <h3>🏁Start<h3>
 September 2022
-Make dreams come true
 
 <h3>💬Using</h3>
 <div>
