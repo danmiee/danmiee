@@ -29,12 +29,14 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danmiee&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=none&hide=io" />
   </a>
 </p>
+<!-- 
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/danmiee">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=danmiee&hide=none&hide_title=true&show_icons=true&include_all_commits=false&theme=none" />
   </a>
-</p>
+</p> 
+-->
 
 <!--
 **danmiee/danmiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
